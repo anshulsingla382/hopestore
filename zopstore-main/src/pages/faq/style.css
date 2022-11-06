@@ -1,0 +1,23 @@
+.faq {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 40px;
+  justify-content: center;
+  margin-left: 250px;
+}
+
+@media only screen and (max-width: 821px) {
+  .faq {
+    margin-left: 0;
+    padding: 0 12px;
+  }
+}
+
+.main {
+  text-align: center;
+}
+
+.FaqImage {
+  margin-top: 70px;
+  width: 150px;
+}
